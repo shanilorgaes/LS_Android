@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "309383376597",
+    "firebase_url": "https://lucky-scan.firebaseio.com",
+    "project_id": "lucky-scan",
+    "storage_bucket": "lucky-scan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309383376597:android:a518324ed14de41743bc5c",
+        "android_client_info": {
+          "package_name": "com.orgaes.ls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309383376597-gh6015j5ipuks0v6mt7djefsec2l02et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orgaes.ls",
+            "certificate_hash": "5f916185b430bb645935e7bc58ea9dd97878b6b6"
+          }
+        },
+        {
+          "client_id": "309383376597-2og4orl91ltv8mt8pbi3681n7c6vernb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orgaes.ls",
+            "certificate_hash": "d650e8ae3eb3c7156eaa5dba16780c296b050b52"
+          }
+        },
+        {
+          "client_id": "309383376597-i92haie6803uu55jr61eedp4tedbirog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR088ya3EspETOYfpHafkEWYGTLf_Np-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309383376597-i92haie6803uu55jr61eedp4tedbirog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

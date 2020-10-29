@@ -1,0 +1,4 @@
+include ':zoomy'
+include ':library'
+rootProject.name='LS'
+include ':app'

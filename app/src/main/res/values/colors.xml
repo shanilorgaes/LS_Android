@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Yellowseek">#02FFF04D</color>
+
+    <color name="orange">#E69723</color>
+    <color name="yellow_topcolor">#ffe93c</color>
+    <color name="chip_default_text_color">#DE000000</color>
+    <color name="chip_default_icon_background_color">#517FA4</color>
+
+    <color name="colorPrimary">#008577</color>
+        <color name="colorPrimaryDark">#00574B</color>
+        <color name="colorAccent">#D81B60</color>
+        <color name="White">#FFFFFF</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DeepPink">#FF1493</color>
+    <color name="Red">#FF0000</color>
+    <color name="LightGrey">#B1AEAE</color>
+    <color name="DarkGray">#464141</color>
+    <color name="DarkRed">#8B0000</color>
+        <color name="BlueViolet">#8A2BE2</color>
+    <color name="Gray">#808080</color>
+    <color name="DarkBlue">#00008B</color>
+    <color name="Black">#000000</color>
+        <color name="button_blue">#414658</color>
+        <color name="button_text_color">#414658</color>
+
+</resources>

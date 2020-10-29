@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">LS</string>
+
+
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+
+    <!-- font families -->
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+
+
+    <string name="more_ncoins_luck"><![CDATA[MORE \nCOINS & LUCK]]></string>
+    <string name="chip_ellipsis">&#8230;</string>
+
+    <string name="mobile_with_country_code">MOBILE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu">MENU</string>
+    <string name="profile">PROFILE</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="logout">LOGOUT</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="wishlist_master">WISHLIST MASTER</string>
+    <string name="luck_box">LUCK BOX</string>
+    <string name="type_a_message">Type a message…</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="code_mobile">  ENTER MOBILE</string>
+    <string name="enter_otp">ENTER OTP HERE</string>
+    <string name="todo">TODO</string>
+    <string name="spinner_txt">EDITION /LOCATION - FILTER</string>
+    <string name="enter_amount_to_w_d">ENTER AMOUNT to W/D</string>
+    <string name="to_a_bank_account">TO A BANK ACCOUNT</string>
+    <string name="yearly_mega_luck"><![CDATA[YEARLY & MEGA LUCK]]></string>
+    <string name="date_time"><![CDATA[DATE & TIME]]></string>
+    <string name="send_otp">SEND OTP</string>
+    <string name="req_otp">REQUEST OTP</string>
+    <string name="verify_otp">VERIFY OTP</string>
+    <string name="coins">  COINS</string>
+    <string name="sec"> Sec</string>
+    <string name="guest_user">Guest User</string>
+    <string name="id">ID :</string>
+    <string name="xxx">  XXXXX</string>
+    <string name="submit">SUBMIT</string>
+    <string name="expires_on">EXPIRES ON : </string>
+    <string name="all_edit">ALL EDIT</string>
+    <string name="total">TOTAL : </string>
+    <string name="username">USERNAME</string>
+    <string name="my_wallet">MY WALLET</string>
+    <string name="current_coin_value">CURRENT COIN VALUE</string>
+    <string name="coins_on_hand">COINS ON HAND</string>
+    <string name="minimum_coins_to_w_d">MINIMUM COINS TO W/D</string>
+    <string name="current_cash_on_hand">CURRENT CASH ON HAND</string>
+    <string name="last_w_d_cash">LAST -w/d- CASH</string>
+    <string name="total_money_w_d_up_to_now">TOTAL MONEY W/D UP TO NOW</string>
+    <string name="feedback">FEEDBACK</string>
+    <string name="app_restart">APP RESTART</string>
+    <string name="luck_box_redeem">LUCK BOX - REDEEM</string>
+    <string name="redeem_n_valid_up_to">REDEEM \n VALID UP TO</string>
+    <string name="enter_coin">ENTER COIN</string>
+    <string name="request">REQUEST</string>
+    <string name="be_helpfull_nalways">BE HELPFULL \nALWAYS</string>
+    <string name="luck_redeem">LUCK - REDEEM</string>
+    <string name="luck_radar_redeem">LUCK RADAR - REDEEM</string>
+    <string name="exchange_item_redeem">EXCHANGE ITEM - REDEEM</string>
+    <string name="draw_redeem">DRAW - REDEEM</string>
+    <string name="assign">ASSIGN</string>
+    <string name="total_coins">TOTAL COINS</string>
+    <string name="today_s_coin_value">TODAY\'S COIN VALUE</string>
+    <string name="sponsor">Sponsor</string>
+    <string name="details_of_luck_gift_coupon">Details of Luck/ Gift/Coupon</string>
+    <string name="redeem_date">REDEEM DATE</string>
+    <string name="collection">Collection</string>
+    <string name="extend_redeem_time">EXTEND REDEEM TIME</string>
+    <string name="actual_nredeem_valid_up_to">ACTUAL \nREDEEM VALID UP TO</string>
+    <string name="edition_name">EDITION NAME</string>
+    <string name="extend_time">EXTEND TIME</string>
+    <string name="good_luck">GOOD LUCK</string>
+    <string name="coin_box">COIN BOX</string>
+    <string name="coin_expiring_date">COIN EXPIRING DATE</string>
+    <string name="last_earned_coins">LAST EARNED COINS</string>
+    <string name="total_shared_coins">TOTAL SHARED COINS</string>
+    <string name="total_requested_coins">TOTAL REQUESTED COINS</string>
+    <string name="total_exchange_coins">TOTAL EXCHANGE COINS</string>
+    <string name="radar_claimed_coins">RADAR CLAIMED COINS</string>
+    <string name="coins_exchanged_for_money">COINS EXCHANGED FOR MONEY</string>
+    <string name="total_coins_used">TOTAL COINS USED</string>
+    <string name="total_coins_expired">TOTAL COINS EXPIRED</string>
+    <string name="this_luck">THIS LUCK</string>
+    <string name="sponsored_by">SPONSORED BY</string>
+    <string name="total_lucks">Total Lucks</string>
+    <string name="total_coin_supply">Total Coin Supply</string>
+    <string name="details_of_nluck_gift_coupon">Details of \nLuck/Gift/Coupon</string>
+    <string name="type_of_ad">Type of ad</string>
+    <string name="duration">Duration</string>
+    <string name="releasing_editions">Releasing Editions</string>
+    <string name="ending_date">Ending Date</string>
+    <string name="try_your_dip_luck">TRY your dip LUCK</string>
+    <string name="coming_soon">COMING SOON</string>
+    <string name="search">SEARCH</string>
+    <string name="ls_winners">LS WINNERS</string>
+    <string name="lucks">LUCKS</string>
+    <string name="last_winning_date">LAST WINNING DATE</string>
+    <string name="current_offers_radar">CURRENT OFFERS @ RADAR</string>
+    <string name="dip_luck_winners">DIP LUCK WINNERS</string>
+    <string name="dip_luck_will_be_your_luck_box">DIP LUCK WILL BE @ YOUR LUCK BOX</string>
+    <string name="today_s_winner">TODAY\'S WINNER</string>
+    <string name="today_s_luck">TODAY\'S LUCK</string>
+    <string name="enter_status">Enter Status...</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="active_luck_on_hand">ACTIVE LUCK ON HAND</string>
+    <string name="vouchers_on_hand">VOUCHERS ON HAND</string>
+    <string name="wallet_money">WALLET MONEY</string>
+    <string name="total_luck_wins">TOTAL LUCK WINS</string>
+    <string name="total_shares_of_coins">TOTAL SHARES OF COINS</string>
+    <string name="total_shares_of_luck">TOTAL SHARES OF LUCK</string>
+    <string name="total_chunkz">TOTAL CHUNKZ</string>
+    <string name="total_exchanges">TOTAL EXCHANGES</string>
+    <string name="chat_privacy">CHAT PRIVACY</string>
+    <string name="photo_privacy">PHOTO PRIVACY</string>
+    <string name="update">UPDATE</string>
+    <string name="lock_profile">LOCK PROFILE</string>
+    <string name="privacy">PRIVACY</string>
+    <string name="redeem_coin_to_cash">REDEEM COIN to CASH</string>
+    <string name="enter_upi_id">ENTER UPI ID</string>
+    <string name="name">NAME</string>
+    <string name="account_no">ACCOUNT NO</string>
+    <string name="ifsc_code">IFSC CODE</string>
+    <string name="remarks">REMARKS</string>
+    <string name="your_name">YOUR NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="profession">PROFESSION</string>
+    <string name="age_group">AGE GROUP</string>
+    <string name="gender">GENDER</string>
+    <string name="re_try">Re-try</string>
+    <string name="hot_thoughts">HOT THOUGHTS</string>
+    <string name="my_chunqz_list">MY CHUNQZ LIST</string>
+    <string name="lock_full_profile">LOCK FULL PROFILE</string>
+    <string name="few_about_me_amp_my_wishes"><![CDATA[Few about me & My wishes]]></string>
+    <string name="yes">YES</string>
+    <string name="welcome_ndear_guest_user">Welcome \nDear Guest User</string>
+
+</resources>
